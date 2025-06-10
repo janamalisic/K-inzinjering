@@ -1264,6 +1264,10 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 #footer-widgets .widget.widget_tag_cloud .tagcloud a { color: #b1b1b1; text-transform: uppercase; }
 #footer-widgets .widget.widget_tag_cloud .tagcloud a:after { background-color: #45484b; border-color: #45484b; }
 
+/* New CSS
+-------------------------------------------------------------- */
+
+
 /* Footer
 -------------------------------------------------------------- */
 #footer { background-color: #20252b; font-size: 14px; padding: 105px 0 35px; position: relative; z-index: 1; border-style: solid; }
